@@ -124,8 +124,7 @@ export const WORKS: Record<'zh' | 'en', WorksLang> = {
        },
       ],
     },
-  },
-}
+  }
 
 // 板块配图（横向画廊每张卡片左侧的整高封面）。放到 public/works/covers/ 下。
 // 缺图时左栏用大编号渐变占位，放入图片后自动点亮。
