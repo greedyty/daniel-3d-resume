@@ -122,9 +122,8 @@ export const WORKS: Record<'zh' | 'en', WorksLang> = {
           { name: 'Death Stranding Scene Recreation', meta: 'UE4', slug: 'death-stranding-ue4' },
         ],
        },
-        ],
-      },
-    ],
+      ],
+    },
   },
 }
 
