@@ -84,6 +84,7 @@ export const WORKS: Record<'zh' | 'en', WorksLang> = {
         items: [
           { name: '爱，死亡，乐高忍者', meta: 'VR游戏', slug: 'love-death-lego-ninja' },
           { name: '死亡搁浅场景复刻', meta: 'UE4', slug: 'death-stranding-ue4' },
+        ],
         footer: '3D 建模 · 游戏开发 · VR · 嵌入式开发 · 软件开发 · 动画包装',
       },   
     ],
