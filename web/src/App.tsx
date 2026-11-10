@@ -26,7 +26,7 @@ const COPY = {
   en: {
     title: 'Daniel‘s Odyssey',
     paragraphs: [
-      "I'm Daniel — a middle-aged guy who's traversed art, design, gaming, coding, farming, tree-planting, and bulk transport, before finally landing in the field of gemomics.And the journey continues...",
+      "I'm Daniel — a middle-aged guy who's traversed art, design, gaming, coding, farming, tree-planting, and bulk transport, before finally landing in the field of gemomics. And the journey continues...",
     ],
   },
   zh: {
@@ -170,8 +170,8 @@ export default function App() {
         <span className="hero-mark bl">+</span>
         <span className="hero-mark br">+</span>
         <div className="hero-meta hm-tl">
-          <span className="hm-name">Sen Zheng 郑越升</span>
-          <span>Creative Technologist</span>
+          <span className="hm-name">Daniel Deng 邓星一</span>
+          <span>Sales Manager</span>
         </div>
         <div className="hero-meta hm-tr">Portfolio — 2026</div>
         <div className="hero-meta hm-bl">Code · Art · Play</div>
