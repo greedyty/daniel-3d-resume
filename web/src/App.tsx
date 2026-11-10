@@ -24,15 +24,15 @@ type Lang = 'en' | 'zh'
 
 const COPY = {
   en: {
-    title: 'About Sen',
+    title: 'Daniel‘s Odyssey',
     paragraphs: [
-      "I'm Sen — a creative technologist living where code meets art. I spend my days around coding, creativity, playful interaction & design, and CG work. I love studying and combining skills across different fields — to create, and to explore more possibilities.",
+      "I'm Daniel — a middle-aged guy who's traversed art, design, gaming, coding, farming, tree-planting, and bulk transport, before finally landing in the field of gemomics.And the journey continues...",
     ],
   },
   zh: {
-    title: 'About Sen',
+    title: 'Daniel‘s Odyssey'',
     paragraphs: [
-      '我是 Sen——一个游走在代码与艺术之间的创意技术人。我常年和 Coding、创意、有趣的交互 & 设计、CG 创作等打交道，喜欢研究并组合不同领域的技能，来创造并探索更多可能性。',
+      '我是 Daniel —— 一个跨越了艺术、设计、游戏、编程、种地、种树、大宗运输，最终来到基因领域的中登，而我的旅程还将继续...',
     ],
   },
 }
