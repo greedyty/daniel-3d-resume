@@ -107,7 +107,7 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
         period: '2021 – 2024',
         place: 'EA（子公司IDEA Inc.） · 温哥华',
         role: '技术美术',
-        logo: { src: `${import.meta.env.BASE_URL}images/bp.png`, alt: 'EA' },
+        logo: { src: `${import.meta.env.BASE_URL}images/hotsar.jpg`, alt: 'HOTSAR' },
         points: [
           '负责：美术资产 / 寒霜引擎api对接 / 动画制作 / 着色器编程',
         ],
@@ -124,7 +124,8 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
       {
         period: '2026 – 至今',
         place: '深圳华大基因股份有限公司',
-        groups: [{ logo: 'BGI', sub: '基因科技造福人类', link: 'https://www.bgi.com/' }],
+        role: '销售',
+        groups: [{ logo: 'zooop', sub: '基因科技造福人类', link: 'https://www.bgi.com/' }],
       },
     ],
   },
