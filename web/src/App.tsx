@@ -24,13 +24,13 @@ type Lang = 'en' | 'zh'
 
 const COPY = {
   en: {
-    title: 'Daniel‘s Odyssey',
+    title: 'Daniels Odyssey',
     paragraphs: [
       "I'm Daniel — a middle-aged guy who's traversed art, design, gaming, coding, farming, tree-planting, and bulk transport, before finally landing in the field of gemomics. And the journey continues...",
     ],
   },
   zh: {
-    title: 'Daniel‘s Odyssey'',
+    title: 'Daniels Odyssey',
     paragraphs: [
       '我是 Daniel —— 一个跨越了艺术、设计、游戏、编程、种地、种树、大宗运输，最终来到基因领域的中登，而我的旅程还将继续...',
     ],
