@@ -126,8 +126,8 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
         place: '深圳华大基因股份有限公司',
         role: '销售',
         logo: { src: `${import.meta.env.BASE_URL}images/bp.png`, alt: 'Bad Printer Studio'},
-        sub: '基因科技造福人类', 
-        link: 'https://www.bgi.com/'
+        sub: '基因科技造福人类',
+        link: 'https://www.bgi.com/',
       },
     ],
   },
