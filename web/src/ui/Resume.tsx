@@ -95,7 +95,7 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
     entries: [
       {
         period: '2013 – 2016',
-        place: '考文垂大学（现已归入伯明翰大学） · 伯明翰',
+        place: '考文垂大学（已合并进伯明翰大学） · 伯明翰',
         role: '交互设计 · 本科',
       },
       {
