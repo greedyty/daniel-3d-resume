@@ -4,7 +4,7 @@
 export function ZooopLogo({ animated = false, ...props }) {
   return (
     <img
-      src={`${import.meta.env.BASE_URL}bp.png`}
+      src={`${import.meta.env.BASE_URL}images/bp.png`}
       alt="BGI"
       {...props}
     />
